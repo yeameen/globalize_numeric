@@ -1,0 +1,40 @@
+8
+
+dir
+679
+svn://repo.somewherein.net/classifiedad/trunk/development/swiad/vendor/plugins/globalize_numeric/tasks
+svn://repo.somewherein.net/classifiedad
+
+
+
+2008-06-29T05:47:00.107786Z
+679
+yeameen
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+756a3fec-1205-4b97-9f4f-1ce1824f47b1
+
+globalize_numeric_tasks.rake
+file
+
+
+
+
+2008-06-25T09:00:24.000000Z
+3f685266bc95fdb28dc750af14ab198b
+2008-06-29T05:47:00.107786Z
+679
+yeameen
+

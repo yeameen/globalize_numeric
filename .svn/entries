@@ -1,0 +1,109 @@
+8
+
+dir
+679
+svn://repo.somewherein.net/classifiedad/trunk/development/swiad/vendor/plugins/globalize_numeric
+svn://repo.somewherein.net/classifiedad
+
+
+
+2008-06-29T05:47:00.107786Z
+679
+yeameen
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+756a3fec-1205-4b97-9f4f-1ce1824f47b1
+
+MIT-LICENSE
+file
+
+
+
+
+2008-06-25T09:00:24.000000Z
+ef8a8411d1f142aee549cd9a00a720d5
+2008-06-29T05:47:00.107786Z
+679
+yeameen
+
+README
+file
+
+
+
+
+2008-06-25T09:00:24.000000Z
+a51b62224b89eb6cc112af5ed6728044
+2008-06-29T05:47:00.107786Z
+679
+yeameen
+
+Rakefile
+file
+
+
+
+
+2008-06-25T09:00:24.000000Z
+0c46a9f22f6774b552ac28ba29626c1e
+2008-06-29T05:47:00.107786Z
+679
+yeameen
+
+init.rb
+file
+
+
+
+
+2008-06-29T04:18:24.000000Z
+120189a1ed0e66857efc70345e8a59c6
+2008-06-29T05:47:00.107786Z
+679
+yeameen
+
+install.rb
+file
+
+
+
+
+2008-06-25T09:00:24.000000Z
+cbe738c10eba4ae2da8c6859c9723e44
+2008-06-29T05:47:00.107786Z
+679
+yeameen
+
+lib
+dir
+
+tasks
+dir
+
+test
+dir
+
+uninstall.rb
+file
+
+
+
+
+2008-06-25T09:00:24.000000Z
+2a5fc883fe7f8dfe22ced24643d59ad4
+2008-06-29T05:47:00.107786Z
+679
+yeameen
+
